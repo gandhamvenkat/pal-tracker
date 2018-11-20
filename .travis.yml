@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dist: trusty
 sudo: false
 notifications:
@@ -39,6 +40,8 @@ jobs:
         organization: $CF_ORG
         space: review
 =======
+=======
+>>>>>>> b1672bb... Add deployment pipeline
 dist: trusty
 sudo: false
 notifications:
@@ -78,4 +81,7 @@ jobs:
         password: $CF_PASSWORD
         organization: $CF_ORG
         space: review
+<<<<<<< HEAD
+>>>>>>> b1672bb... Add deployment pipeline
+=======
 >>>>>>> b1672bb... Add deployment pipeline
